@@ -1,0 +1,12 @@
+F:\c#\毕业设计\毕业设计\bin\Release\毕业设计.exe.config
+F:\c#\毕业设计\毕业设计\bin\Release\毕业设计.exe
+F:\c#\毕业设计\毕业设计\bin\Release\毕业设计.pdb
+F:\c#\毕业设计\毕业设计\obj\Release\毕业设计.csprojAssemblyReference.cache
+F:\c#\毕业设计\毕业设计\obj\Release\毕业设计.Form1.resources
+F:\c#\毕业设计\毕业设计\obj\Release\毕业设计.Properties.Resources.resources
+F:\c#\毕业设计\毕业设计\obj\Release\毕业设计.toolsbar.resources
+F:\c#\毕业设计\毕业设计\obj\Release\毕业设计.图片列表.resources
+F:\c#\毕业设计\毕业设计\obj\Release\毕业设计.csproj.GenerateResource.cache
+F:\c#\毕业设计\毕业设计\obj\Release\毕业设计.csproj.CoreCompileInputs.cache
+F:\c#\毕业设计\毕业设计\obj\Release\毕业设计.exe
+F:\c#\毕业设计\毕业设计\obj\Release\毕业设计.pdb
